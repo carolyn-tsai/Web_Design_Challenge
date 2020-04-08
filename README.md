@@ -1,4 +1,4 @@
-# Web_Design_Challenge
+# Web Design Challenge
 
 For this project, I created a visualization dashboard website using visualizations created from past projects. Specifically, I created plots and graphs using weather data.
 
