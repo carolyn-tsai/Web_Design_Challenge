@@ -10,6 +10,9 @@ In building this dashboard, I created individual pages for each plot and a means
 The website consists of 7 pages total:
 1. A landing page containing:- An explanation of the project
     - Links to each visualizations page
+
+    ![Data Table](Images/Main.JPG)
+
 2. Four visualization pages, each with:
     - A descriptive title and heading tag
     - The plot/visualization itself for the selected comparison
@@ -18,10 +21,15 @@ The website consists of 7 pages total:
     - Contains all of the visualizations on the same page so quick comparisons can be made
     - Has a Bootstrap grid for the visualizations
           - The grid has two visualizations across on screens medium and larger, and 1 across on extra-small and small screens
+
+    ![Data Table](Images/Comparisons.JPG)
+
 4. A "Data" page that:
     - Displays a responsive table containing the data used in the visualizations
     - The table includes a bootstrap table component
     - The HTML table was created using Pandas
+
+    ![Data Table](Images/Data.JPG)
 
 At the top of every page, there is a navigation menu that:
 - Has the name of the site on the left of the nav which allows users to return to the landing page from any page
